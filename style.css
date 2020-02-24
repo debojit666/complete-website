@@ -26,8 +26,8 @@ h2{
     background-repeat: no-repeat;
 }
 section{
-    height: 300px;
-    padding-bottom: 150px; 
+    height: 350px;
+    padding-bottom: 300px; 
 }
 .link-button{
     text-decoration: none;
@@ -53,11 +53,11 @@ section{
 }
 .div-section {
     width: 100%;
-    margin-left: 2%;
+    margin-left: 5%;
 }
 .latestWork-single-section {
     float: left;
-    width: 20%;
+    width: 25%;
     padding-left: 5px;
     margin: 5px;
 
@@ -104,27 +104,6 @@ section{
     font-size: 40px;
     font-weight: 600;
     color: white;
-}
-.single-experience{
-    box-shadow: 10px 10px 40px gray ;
-    border-radius: 10px;
-    height: 70%;
-    background-color: white;
-}
-.experience-area{
-    background-image: url("images/exp-bg.png");
-    background-repeat: no-repeat;
-    background-position: left;
-}
-#asst-audio-engineer{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
-}
-#audio-engineer{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
 }
 footer p{
     text-align: center;
