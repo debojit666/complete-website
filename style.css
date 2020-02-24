@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.maroon-highlight{
+    color: #C80000;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 50%;
+    margin-right: 5px;  
+} 
+.top-banner{
+    background-image: url("images/header-bg.png.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 300px;
+    padding-bottom: 150px; 
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(172, 13, 13);
+    padding: 10px 20px;
+    border-radius: 15px;
+    color: white;
+    font-weight: 70;
+}
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.latestWork-area {
+    background-image: url("images/latest-work-bg.png");
+    overflow: hidden;
+    background-repeat: no-repeat;
+    padding-bottom: 150px;
+    padding-top: 150px;
+}
+.latest-content {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    padding-bottom: 100px;
+    overflow: hidden;
+}
+.div-section {
+    width: 100%;
+    margin-left: 3%;
+}
+.latestWork-single-section {
+    float: left;
+    width: 29%;
+    padding-left: 30px;
+    margin: auto;
+
+}
+.latestWork-single-section img {
+    width: 100%;
+}
+.clients-area {
+    background-image: url("images/footer-bg.png");
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 150px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.clients-asks {
+    font-size: 45px;
+    font-weight: 600;
+}
+.clients-name {
+    padding-top: 70px;
+}
+.clients-name h5 {
+    font-size: 30px;
+}
+.clients-paragraph {
+    padding: 50px;
+    font-size: 15px;
+}
+.message-box {
+    width: 40%;
+    height: 140px;
+    margin-left: 30%;
+    padding-top: 40px;
+    text-align: center;
+    background-image: linear-gradient(50deg, red, deeppink);
+    border-radius: 10px;
+}
+.mail-paragraph {
+    font-size: 20px;
+    color: white;
+}
+.mail-address {
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+.single-experience{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    height: 70%;
+    background-color: white;
+}
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#asst-audio-engineer{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+#audio-engineer{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 20px;
+    font-style: oblique;
+}
