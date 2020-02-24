@@ -22,12 +22,12 @@ h2{
     margin-right: 5px;  
 } 
 .top-banner{
-    background-image: url("images/header-bg.png.png");
+    background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
 }
 section{
-    height: 300px;
-    padding-bottom: 150px; 
+    height: 350px;
+    padding-bottom: 50px; 
 }
 .link-button{
     text-decoration: none;
@@ -37,34 +37,29 @@ section{
     color: white;
     font-weight: 70;
 }
-.dream-area{
-    background-image: url("images/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
-}
 .latestWork-area {
     background-image: url("images/latest-work-bg.png");
     overflow: hidden;
     background-repeat: no-repeat;
-    padding-bottom: 150px;
-    padding-top: 150px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 .latest-content {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     overflow: hidden;
 }
 .div-section {
     width: 100%;
-    margin-left: 3%;
+    margin-left: 10%;
 }
 .latestWork-single-section {
     float: left;
-    width: 29%;
-    padding-left: 30px;
-    margin: auto;
+    width: 25%;
+    padding-left: 5px;
+    margin: 5px;
 
 }
 .latestWork-single-section img {
@@ -84,6 +79,7 @@ section{
 }
 .clients-name {
     padding-top: 70px;
+    color: rgb(172, 13, 13);
 }
 .clients-name h5 {
     font-size: 30px;
@@ -93,13 +89,13 @@ section{
     font-size: 15px;
 }
 .message-box {
-    width: 40%;
-    height: 140px;
-    margin-left: 30%;
-    padding-top: 40px;
+    width: 20%;
+    height: 20px;
+    margin-left: 10%;
+    padding-top: 10px;
     text-align: center;
-    background-image: linear-gradient(50deg, red, deeppink);
-    border-radius: 10px;
+    background-image: linear-gradient(180deg, red, pink);
+    border-radius: 2px;
 }
 .mail-paragraph {
     font-size: 20px;
@@ -109,27 +105,6 @@ section{
     font-size: 40px;
     font-weight: 600;
     color: white;
-}
-.single-experience{
-    box-shadow: 10px 10px 40px gray ;
-    border-radius: 10px;
-    height: 70%;
-    background-color: white;
-}
-.experience-area{
-    background-image: url("images/exp-bg.png");
-    background-repeat: no-repeat;
-    background-position: left;
-}
-#asst-audio-engineer{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
-}
-#audio-engineer{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
 }
 footer p{
     text-align: center;
