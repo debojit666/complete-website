@@ -37,11 +37,6 @@ section{
     color: white;
     font-weight: 70;
 }
-.dream-area{
-    background-image: url("images/dream-bg.png");
-    background-repeat: no-repeat;
-    background-position: right;
-}
 .latestWork-area {
     background-image: url("images/latest-work-bg.png");
     overflow: hidden;
@@ -51,20 +46,20 @@ section{
 }
 .latest-content {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 600;
     padding-bottom: 100px;
     overflow: hidden;
 }
 .div-section {
     width: 100%;
-    margin-left: 3%;
+    margin-left: 2%;
 }
 .latestWork-single-section {
     float: left;
-    width: 29%;
-    padding-left: 30px;
-    margin: auto;
+    width: 20%;
+    padding-left: 5px;
+    margin: 5px;
 
 }
 .latestWork-single-section img {
