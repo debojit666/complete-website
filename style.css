@@ -53,7 +53,7 @@ section{
 }
 .div-section {
     width: 100%;
-    margin-left: 5%;
+    margin-left: 10%;
 }
 .latestWork-single-section {
     float: left;
@@ -89,13 +89,13 @@ section{
     font-size: 15px;
 }
 .message-box {
-    width: 40%;
-    height: 40px;
-    margin-left: 30%;
-    padding-top: 20px;
+    width: 20%;
+    height: 20px;
+    margin-left: 10%;
+    padding-top: 10px;
     text-align: center;
-    background-image: linear-gradient(50deg, red, deeppink);
-    border-radius: 5px;
+    background-image: linear-gradient(180deg, red, pink);
+    border-radius: 2px;
 }
 .mail-paragraph {
     font-size: 20px;
