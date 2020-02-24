@@ -22,12 +22,12 @@ h2{
     margin-right: 5px;  
 } 
 .top-banner{
-    background-image: url("images/header-bg.png.png");
+    background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
 }
 section{
     height: 350px;
-    padding-bottom: 300px; 
+    padding-bottom: 50px; 
 }
 .link-button{
     text-decoration: none;
@@ -41,14 +41,14 @@ section{
     background-image: url("images/latest-work-bg.png");
     overflow: hidden;
     background-repeat: no-repeat;
-    padding-bottom: 150px;
-    padding-top: 150px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 .latest-content {
     text-align: center;
     font-size: 40px;
     font-weight: 600;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     overflow: hidden;
 }
 .div-section {
@@ -79,6 +79,7 @@ section{
 }
 .clients-name {
     padding-top: 70px;
+    color: rgb(172, 13, 13);
 }
 .clients-name h5 {
     font-size: 30px;
@@ -89,12 +90,12 @@ section{
 }
 .message-box {
     width: 40%;
-    height: 140px;
+    height: 40px;
     margin-left: 30%;
-    padding-top: 40px;
+    padding-top: 20px;
     text-align: center;
     background-image: linear-gradient(50deg, red, deeppink);
-    border-radius: 10px;
+    border-radius: 5px;
 }
 .mail-paragraph {
     font-size: 20px;
